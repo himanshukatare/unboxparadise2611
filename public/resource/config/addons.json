@@ -2,9 +2,7 @@
     "heading": "Add-ons",
     "subheading": "Mix and match modular add-ons to tailor every welcome kit or gift bundle to your brand",
     "homeFeaturedIds": [
-        "UBPADD001", "UBPADD002", "UBPADD003", "UBPADD004", "UBPADD005", "UBPADD006", "UBPADD007", "UBPADD008", "UBPADD009", "UBPADD010", "UBPADD011",
-        "UBPADD012", "UBPADD013", "UBPADD014", "UBPADD015", "UBPADD016", "UBPADD017", "UBPADD018", "UBPADD019", "UBPADD020",
-        "UBPADD021", "UBPADD022", "UBPADD023", "UBPADD024", "UBPADD025", "UBPADD026", "UBPADD027", "UBPADD028"
+        "UBPADD001", "UBPADD002", "UBPADD003"
     ],
     "items": [
         {
@@ -454,4 +452,5 @@
         }
     ],
     "note": "⚙️ <strong>Tip:</strong> Add-ons can be bundled with any value-for-money pack, standalone item, or custom kit for personalised gifting."
+
 }
