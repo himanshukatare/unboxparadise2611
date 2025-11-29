@@ -1,0 +1,186 @@
+{
+    "heading": "Add-ons",
+    "subheading": "Mix and match modular add-ons to tailor every welcome kit or gift bundle to your brand",
+    "homeFeaturedIds": [
+        "UBPADD001", "UBPADD002", "UBPADD003", "UBPADD004", "UBPADD005", "UBPADD006", "UBPADD007", "UBPADD008", "UBPADD009", "UBPADD010", "UBPADD011",
+        "UBPADD012", "UBPADD013", "UBPADD014", "UBPADD015", "UBPADD016", "UBPADD017", "UBPADD018", "UBPADD019", "UBPADD020",
+        "UBPADD021", "UBPADD022", "UBPADD023", "UBPADD024", "UBPADD025", "UBPADD026", "UBPADD027", "UBPADD028"
+    ],
+    "items": [
+  {
+    "id": "UBGT001",
+    "name": "3 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT001_1.png",
+      "/resource/catalog_image/UBGT001_2.png"
+    ],
+    "price": "450",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "3 in 1 combo",
+      "Metal bottle",
+      "Metallic Pen",
+      "Diary",
+      "Red/Grey"
+    ]
+  },
+  {
+    "id": "UBGT002",
+    "name": "3 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT002_1.png"
+    ],
+    "price": "450",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "3 in 1 combo",
+      "Wooden bottle",
+      "Wooden Pen",
+      "Wooden theme Diary",
+      "Red/Grey"
+    ]
+  },
+  {
+    "id": "UBGT003",
+    "name": "2 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT003_1.png"
+    ],
+    "price": "354",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "2 in 1 combo",
+      "Metallic Pen",
+      "Leather Diary",
+      "Blue"
+    ]
+  },
+  {
+    "id": "UBGT004",
+    "name": "Leather Gift Item",
+    "images": [
+      "/resource/catalog_image/UBGT004_1.png",
+      "/resource/catalog_image/UBGT004_2.png",
+      "/resource/catalog_image/UBGT004_3.png"
+    ],
+    "price": "274",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "Material - Leather",
+      "Leather Corporate Gift",
+      "Color - Black",
+      "Shape - Rectangular"
+    ]
+  },
+  {
+    "id": "UBGT005",
+    "name": "3 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT005_1.png",
+      "/resource/catalog_image/UBGT005_2.png"
+    ],
+    "price": "374",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "3 in 1 combo",
+      "Best Quality Pen",
+      "Keychain",
+      "Cardholder"
+    ]
+  },
+  {
+    "id": "UBGT006",
+    "name": "4 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT006_1.png"
+    ],
+    "price": "654",
+    "badge": "Popular",
+    "itemsIncluded": [
+      "4 in 1 combo",
+      "Pen drive",
+      "Bottle",
+      "Pen",
+      "Key Chain"
+    ]
+  },
+  {
+    "id": "UBGT007",
+    "name": "4 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT007_1.png"
+    ],
+    "price": "533",
+    "badge": "Best Seller",
+    "itemsIncluded": [
+      "4 in 1 combo",
+      "Metallic Pen",
+      "Leather Diary",
+      "Card Holder",
+      "Key Chain"
+    ]
+  },
+  {
+    "id": "UBGT008",
+    "name": "8 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT008_1.png",
+      "/resource/catalog_image/UBGT008_2.png",
+      "/resource/catalog_image/UBGT008_3.png"
+    ],
+    "price": "1424",
+    "badge": "Premium",
+    "itemsIncluded": [
+      "8 in 1 combo",
+      "Metallic Pen",
+      "Leather Diary",
+      "Card Holder",
+      "Sipper",
+      "Water Bottle",
+      "Mouse",
+      "Mug",
+      "Key Chain"
+    ]
+  },
+  {
+    "id": "UBGT009",
+    "name": "5 in 1 combo",
+    "images": [
+      "/resource/catalog_image/UBGT009_1.png"
+    ],
+    "price": "775",
+    "badge": "Premium",
+    "itemsIncluded": [
+      "5 in 1 combo",
+      "Wooden theme",
+      "Metallic pen",
+      "Leather Diary",
+      "Calender",
+      "Water Bottle",
+      "Key Chain"
+    ]
+
+  },
+  {
+    "id": "UBGT010",
+    "name": "9 in 1 Corporate Kit",
+    "images": [
+      "/resource/catalog_image/UBGT010_1.png"
+    ],
+    "price": "826",
+    "badge": "Premium",
+    "itemsIncluded": [
+      "1 polo tshirt",
+      "Laptop bag",
+      "Water bottle",
+      "Coffee mug with lid",
+      "Keychain",
+      "Pen",
+      "Notebook",
+      "Personal stationery kit",
+      "Card holder"
+    ]
+  }
+],
+    "note": "⚙️ <strong>Tip:</strong> Add-ons can be bundled with any value-for-money pack, standalone item, or custom kit for personalised gifting."
+}
